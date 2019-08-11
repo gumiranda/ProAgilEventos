@@ -1,0 +1,24 @@
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.deps.json
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.pdb
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csprojAssemblyReference.cache
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfoInputs.cache
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfo.cs
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CopyComplete
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\Projetos\CURSO DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.pdb
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.deps.json
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.pdb
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csprojAssemblyReference.cache
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfoInputs.cache
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfo.cs
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CopyComplete
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.pdb

@@ -1,0 +1,18 @@
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.deps.json
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csprojAssemblyReference.cache
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfo.cs
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Projetos\CURSO DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.deps.json
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csprojAssemblyReference.cache
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfo.cs
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Users\Samsung\Downloads\CURSOS DE IONIC\DOTNET\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.pdb
